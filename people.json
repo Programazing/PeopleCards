@@ -1,0 +1,17 @@
+{
+    "people":[
+
+    {"name": "Christopher Johnson",
+    "url": "https://calendly.com/programazing",
+    "image": "https://res.cloudinary.com/programazing/image/upload/v1649441568/Me-200-200_vls29x.jpg",
+    "title": "Developer Advocate",
+    "description": "Base description"},
+
+    {"name": "Calvin Allen",
+        "url": "https://calendly.com/calvinallen",
+        "image": "https://res.cloudinary.com/programazing/image/upload/v1649441568/Me-200-200_vls29x.jpg",
+        "title": "Software Developer",
+        "description": "Base description"}
+    
+    ]
+ }
