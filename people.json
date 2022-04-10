@@ -2,18 +2,20 @@
     "people":[
 
     {"name": "Christopher Johnson",
-    "url": "https://calendly.com/programazing",
+    "url": "https://www.thatamazingprogrammer.com",
+    "contact": "https://calendly.com/programazing",
     "twitter": "https://twitter.com/Programazing",
     "image": "https://res.cloudinary.com/programazing/image/upload/v1649441568/Me-200-200_vls29x.jpg",
     "title": "Developer Advocate",
     "description": "Base description"},
 
     {"name": "Calvin Allen",
-        "url": "https://calendly.com/calvinallen",
-        "twitter": "https://twitter.com/_CalvinAllen",
-        "image": "https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/9118228/e5a31225.jpg",
-        "title": "Software Developer",
-        "description": "Base description"}
-    
+    "url": "https://www.codingwithcalvin.net/",
+    "contact": "https://calendly.com/calvinallen",
+    "twitter": "https://twitter.com/_CalvinAllen",
+    "image": "https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/9118228/e5a31225.jpg",
+    "title": "Software Developer",
+    "description": "Base description"}
+
     ]
  }
