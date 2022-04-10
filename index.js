@@ -1,4 +1,4 @@
-const branchName = 'dev'
+const branchName = 'main'
 const githubUsername = 'Programazing'
 const githubProjectName = 'PeopleCards'
 const jsonName = 'people.json'
